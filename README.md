@@ -53,4 +53,27 @@ This web application features an interactive map from the Leaflet library which 
   </li>
 </ul>
 
+## Installation⚡
+
+0. Star ⭐
+
+1. Fork
+
+2. Clone the forked repository.
+
+```css
+git clone https://github.com/<your-github-username>/GrandStrategist-AI
+```
+
+3. Navigate to the project directory.
+
+```py
+cd Quizfinity
+```
+
+4. Open index.html in your web browser to launch the game.
+
+
+# Made with ❤ by [Pranjal Agarwal](https://github.com/Pranjal360Agarwal).
+
 
