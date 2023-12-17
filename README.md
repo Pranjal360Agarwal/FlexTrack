@@ -62,13 +62,13 @@ This web application features an interactive map from the Leaflet library which 
 2. Clone the forked repository.
 
 ```css
-git clone https://github.com/<your-github-username>/GrandStrategist-AI
+git clone https://github.com/<your-github-username>/FlexTrack
 ```
 
 3. Navigate to the project directory.
 
 ```py
-cd Quizfinity
+cd FlexTrack
 ```
 
 4. Open index.html in your web browser to launch the game.
