@@ -2,7 +2,7 @@
 
 FlexTrack is a simple web application that allows users track their physical exercise such as cycling and running based on the location where these workouts were performed. The application also enables the user save specific details about each workout activity such as the distance covered, duration of the exercise, and cadence or stride rate which are store in the browser local storage.
 
-This web application features an interactive map from the Leaflet library which allows users to place pin on the specific location where their exercise took place. The entire app was bult with the following:
+This web application features an interactive map from the Leaflet library which allows users to place pin on the specific location where their exercise took place. The entire app was bult with the following:-
 
 <ul>
   <li>HTML5</li>
